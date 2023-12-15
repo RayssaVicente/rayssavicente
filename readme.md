@@ -1,6 +1,6 @@
 # Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 😀
 
-My name is Rayssa Vicente, I'm a front-end developer, but I intend to become a full stack developer, and I'm on the path to making it a reality soon📝
+My name is Rayssa Vicente, I'm a front-end developer, but I intend to become a full stack developer, and I'm on the path to making that a reality soon, I like programming and my goal is to create amazing websites and applications that solve real-world problems and at the same time look beautiful on all devices📝💻
 
 </br>
 
