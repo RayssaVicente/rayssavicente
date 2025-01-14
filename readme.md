@@ -1,10 +1,10 @@
-# Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 😀
+# Olá, mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 😀
 
-My name is Rayssa Vicente, I'm a front-end developer, but I intend to become a full stack developer, and I'm on the path to making that a reality soon, I like programming and my goal is to create amazing websites and applications that solve real-world problems and at the same time look beautiful on all devices📝💻
+Meu nome é Rayssa Vicente, sou desenvolvedora front-end, mas pretendo me tornar uma desenvolvedora full stack, e estou no caminho para tornar isso realidade em breve, gosto de programação e meu objetivo é criar sites e aplicativos incríveis que resolvam problemas do mundo real e ao mesmo tempo fiquem lindos em todos os dispositivos.📝💻
 
 </br>
 
-You can find me here too 👇
+Você pode me encontrar aqui também 👇
 
 
 <div>
