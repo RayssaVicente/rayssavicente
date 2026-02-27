@@ -1,6 +1,6 @@
 # Olá, mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 😀
 
-Meu nome é Rayssa Vicente, sou desenvolvedora front-end, mas pretendo me tornar uma desenvolvedora full stack, e estou no caminho para tornar isso realidade em breve, gosto de programação e meu objetivo é criar sites e aplicativos incríveis que resolvam problemas do mundo real e ao mesmo tempo fiquem lindos em todos os dispositivos.📝💻
+Meu nome é Rayssa Vicente, sou  desenvolvedora full stack, gosto de programação e meu objetivo é criar sites e aplicativos incríveis que resolvam problemas do mundo real e ao mesmo tempo fiquem lindos em todos os dispositivos.📝💻
 
 </br>
 
