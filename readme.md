@@ -38,9 +38,6 @@ Sou uma **Desenvolvedora Full Stack** apaixonada por tecnologia e educação, co
 
 ### 📫 Vamos conversar?
 <div align="left">
-  <a href="mailto:rayssavicenteviegas@gmail.com">
-    <img src="https://mail.google.com/mail/u/0/">
-  </a>
   <a href="https://www.linkedin.com/in/rayssa-vicente-viegas-0b3027201/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
