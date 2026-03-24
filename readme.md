@@ -1,12 +1,12 @@
 # Olá, mundo! Eu sou a Rayssa Vicente 👋
 
-[cite_start]Sou uma **Desenvolvedora Full Stack** apaixonada por tecnologia e educação, com foco em criar aplicações que resolvam problemas reais com interfaces fluidas e eficientes[cite: 6, 7, 47]. [cite_start]Atualmente, estou expandindo meus conhecimentos em Ciência de Dados e Automações[cite: 17, 47, 60].
+Sou uma **Desenvolvedora Full Stack** apaixonada por tecnologia e educação, com foco em criar aplicações que resolvam problemas reais com interfaces fluidas e eficientes. Atualmente, estou expandindo meus conhecimentos em Ciência de Dados e Automações.
 
 ### 🚀 Sobre mim
-* [cite_start]🎓 **Educação:** Graduanda em **Ciência de Dados** e formada em **Análise e Desenvolvimento de Sistemas** pela UEPB[cite: 16, 17, 58].
-* [cite_start]💼 **Experiência:** Atuei como Estagiária de Desenvolvimento Front-end na **Fundação Casa José Américo**, onde trabalhei com interfaces modernas e suporte técnico[cite: 49, 50, 51].
-* [cite_start]🤖 **Interesses:** Além do desenvolvimento web, tenho forte bagagem em robótica e automação de processos[cite: 47].
-* [cite_start]🎯 **Objetivo:** Criar experiências digitais incríveis que sejam acessíveis e responsivas em qualquer dispositivo[cite: 10, 47].
+* 🎓 **Educação:** Graduanda em **Ciência de Dados** e formada em **Análise e Desenvolvimento de Sistemas** pela UEPB.
+* 💼 **Experiência:** Atuei como Estagiária de Desenvolvimento Front-end na **Fundação Casa José Américo**, onde trabalhei com interfaces modernas e suporte técnico.
+* 🤖 **Interesses:** Além do desenvolvimento web, tenho forte bagagem em robótica e automação de processos.
+* 🎯 **Objetivo:** Criar experiências digitais incríveis que sejam acessíveis e responsivas em qualquer dispositivo.
 
 ---
 
@@ -30,9 +30,9 @@
 ---
 
 ### 📂 Projetos em Destaque
-* [cite_start]**[Twitter Clone](https://github.com/RayssaVicente/Twitter-Clone):** Aplicação Full Stack que replica as funcionalidades centrais de uma rede social[cite: 23, 54].
-* [cite_start]**[Facevision](https://github.com/RayssaVicente/Facevision):** Sistema robusto para gestão de notas e desempenho acadêmico desenvolvido com Django[cite: 26, 55].
-* [cite_start]**[Despesas Pessoais](https://github.com/RayssaVicente/Despesas-Pessoais):** Ferramenta web para controle financeiro e organização de gastos[cite: 30, 56].
+* **Twitter Clone:** Aplicação Full Stack que replica as funcionalidades centrais de uma rede social.
+* **Facevision:** Sistema robusto para gestão de notas e desempenho acadêmico desenvolvido com Django.
+* **Despesas Pessoais:** Ferramenta web para controle financeiro e organização de gastos.
 
 ---
 
@@ -40,8 +40,5 @@
 <div align="left">
   <a href="mailto:rayssavicenteviegas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/rayssavicenteviegas">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
